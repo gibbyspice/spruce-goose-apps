@@ -12,6 +12,7 @@ This repository is the one public home for every app's **App Store public docume
 | ChessRealm: Openings | `chessrealm-openings/` | gibbyspice/chessrealm-openings |
 | ChessRealm: Game Study | `chessrealm-game-study/` | gibbyspice/rork-chessrealm--game-study |
 | Next Play Baseball | `next-play-baseball/` | gibbyspice/rork-next-play-baseball |
+| Next Play Football: Xs & Os | `next-play-football/` | gibbyspice/next-play-football |
 
 ## Rules
 
